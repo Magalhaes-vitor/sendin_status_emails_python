@@ -20,7 +20,7 @@ try:
     smtp.sendmail(email_from, email_to, msg.as_string()) 
     smtp.quit()
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-   ''' add your script here if it returns an error the error email will be directed to your recipient'''
+   # add your script here if it returns an error the error email will be directed to your recipient
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 except Exception as ex: 
     print("There was a problem sending the error email:", ex)
