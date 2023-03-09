@@ -25,4 +25,4 @@ except Exception as ex:
     print("There was a problem sending the error email:", ex)
     raise Exception("Problem sending error email.")
 else:
-    print("Error email sent successfully!")}
+    print("Error email sent successfully!")
