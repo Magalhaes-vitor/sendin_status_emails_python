@@ -1,5 +1,3 @@
-Here’s a GitHub-style documentation for the project you mentioned:
-
 ---
 
 # Send Status Emails in Python
@@ -40,5 +38,3 @@ python send_status_email.py
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 --- 
-
-This README format provides clarity for users, enabling them to quickly understand and set up the project.
